@@ -1,0 +1,13 @@
+####################### Banner #########################
+style: "style1 orient-left content-align-left image-position-right fullscreen onload-image-fade-in onload-content-fade-right"
+title : "姜潤 [Kyo-Jun]"
+subtitle: |
+  純日本人変面俳優。2020年より中国国家一級俳優 川劇変面王 姜鵬 氏の下に師事。日本人唯一、川劇の一門に入門しデビューを果たす。繊細で力強い正統派な演舞が持ち味。
+# content : |
+#   <span class="demo-controls">
+
+button:
+  label : "もっと見る"
+  link : "#first"
+image : "images/kyo-jun.PNG"
+
