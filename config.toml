@@ -4,7 +4,7 @@
 
 title = "Hugo Story"
 theme = "hugo-story"
-
+baseURL = "https://kyojun-henmen.github.io
 
 ## -----------------------------------------------
 ## Hugo Built-in Features
