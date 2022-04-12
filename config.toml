@@ -24,6 +24,5 @@ disableKinds = ["taxonomy", "taxonomyTerm", "section"]
   favicon = true
 
 [Params.social]
-  github = "https://github.com/kyojun-henmen/"
   twitter = "https://twitter.com/todoroki_jun"
   instagram = "https://instagram.com/jun_bianlian"
