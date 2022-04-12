@@ -2,7 +2,7 @@
 ## Basic Configuration
 ## -----------------------------------------------
 
-title = "Hugo Story"
+title = "姜潤 [Kyo-Jun]"
 theme = "hugo-story"
 baseURL = "https://kyojun-henmen.github.io/"
 
@@ -19,7 +19,7 @@ disableKinds = ["taxonomy", "taxonomyTerm", "section"]
 ## -----------------------------------------------
 
 [Params]
-  description = "A (modular, highly tweakable) responsive one-page theme for Hugo"
+  description = "姜潤 [Kyo-Jun] 純日本人変面俳優。2020年より中国国家一級俳優 川劇変面王 姜鵬 氏の下に師事。日本人唯一、川劇の一門に入門しデビューを果たす。繊細で力強い正統派な演舞が持ち味。"
   logo = "images/banner.jpg"
   favicon = true
 
